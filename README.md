@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Application Tracker System
 
 A FastAPI backend project to track job applications with CRUD operations and SQL database integration.
@@ -37,19 +36,15 @@ Application Tracker System helps users manage their job applications. Users can 
 | PUT | /applications/{id} | Update application |
 | DELETE | /applications/{id} | Delete application |
 
-## How to Run This Project
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/mdfaiyaz001/application-tracker-system.git
-=======
-# application-tracker-system
-A FastAPI backend system to track job applications with CRUD operations and SQL database integration.
->>>>>>> 4b44423e314a7e595cc652cf807a40be889cd8a4
-
 ## Screenshots
 
 ### Swagger API Documentation
 
 ![Swagger UI](screenshots/swagger-ui.png)
+
+## How to Run This Project
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/mdfaiyaz001/application-tracker-system.git
