@@ -44,12 +44,7 @@ Application Tracker System helps users manage their job applications. Users can 
 
 ## How to Run This Project
 
-### 1. Clone the repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/mdfaiyaz001/application-tracker-system.git
-### 2. Open project folder
-
-```bash
-cd application-tracker-system
-This project is designed to run locally as a FastAPI-based backend application. Users can clone the repository, install the required dependencies from requirements.txt, and start the development server using Uvicorn. Once the server is running, the automatically generated Swagger UI can be accessed at http://127.0.0.1:8000/docs, allowing users to interact with and test all available REST API endpoints for creating, retrieving, updating, and deleting job application records.
